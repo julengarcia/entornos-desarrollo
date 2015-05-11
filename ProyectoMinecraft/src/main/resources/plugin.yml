@@ -1,0 +1,12 @@
+name: Hello
+
+author: Julen
+website: http://pello.info
+main: org.cuatrovientos.minecraft.plugins.hello.hello
+
+commands:
+    hello:
+        description: Simple plugin to say hello
+        usage: /hello
+
+version: 0.1

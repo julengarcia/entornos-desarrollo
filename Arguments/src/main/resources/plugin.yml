@@ -1,0 +1,12 @@
+name: Greets
+
+author: Julen García
+website: http://julen.info
+main: org.cuatrovientos.julen.minecraft.arguments.muralla
+
+commands:
+    muralla:
+        description: Simple plugin to greet users with a msg and repeat value
+        usage: /muralla ancho altura
+
+version: 0.1

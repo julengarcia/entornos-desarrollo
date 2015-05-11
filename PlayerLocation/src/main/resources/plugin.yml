@@ -1,0 +1,12 @@
+name: Location
+
+author: Pello Altadill
+website: http://pello.info
+main: org.cuatrovientos.julen.minecraft.die.PlayerLocation
+
+commands:
+    location:
+        description: Simple plugin to show player location
+        usage: /location
+
+version: 0.1
